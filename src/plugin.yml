@@ -1,0 +1,5 @@
+name: UserLog
+main: userlog.UserLog
+version: 0.1
+author: Damian Zaremba
+description: Writes out current users to a log file.
